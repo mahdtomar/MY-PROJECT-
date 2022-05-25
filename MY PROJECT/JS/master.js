@@ -145,8 +145,10 @@ function randomizeImgs() {
 randomizeImgs();
 
 // Select Skills Selector
+
 let ourSkills = document.getElementById("skills");
 // let ourSkills =document.getElementById(".skills"); // don't use "." with --  getElementById --
+
 let skills = document.querySelectorAll(".progress");
 
 let skillsHeight = ourSkills.clientHeight; 
