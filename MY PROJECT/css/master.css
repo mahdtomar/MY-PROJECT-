@@ -298,6 +298,7 @@ body {
     height: 100%;
     background-color: var(--main-color);
     transition: all .3s;
+    transition: width 1s;
 
 }
 
